@@ -1,1 +1,2 @@
-# tomb
+# tömb
+tömbök használata
